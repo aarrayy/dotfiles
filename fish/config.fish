@@ -85,6 +85,8 @@ function copy
     end
 end
 
+
+
 ## Useful aliases
 # Replace ls with exa
 alias ls='exa -al --color=always --group-directories-first --icons' # preferred listing
